@@ -9,5 +9,5 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
     }
 }
-// 충돌나게 만들 주석입니다1
-// 충돌나게 만들 주석입니다2
+// 충돌나게 만들 주석입니당2
+// 충돌나게 만들 주석입니당3
